@@ -15,6 +15,8 @@ https://github.com/haiderali1998/gen-PWA19
 
 ## Deployed URL
 
+https://offline-pwa-app.herokuapp.com/
+
 ## Screenshot
 
 <section>
